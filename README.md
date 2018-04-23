@@ -1,2 +1,2 @@
 # idris_test
-Just for test
+This is just for a test
